@@ -1,6 +1,6 @@
 [submodule "ELVEES-OST"]
 	path = ELVEES-OST
-	url = git@github.com:danANDla/ELVEES-OST.git
+	url = git@github.com:danANDla/GENERAL-OST.git
 [submodule "NS3-OST"]
 	path = NS3-OST
 	url = git@github.com:danANDla/NS3-OST.git
