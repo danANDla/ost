@@ -7,3 +7,6 @@
 [submodule "GENERAL-OST"]
 	path = GENERAL-OST
 	url = git@github.com:danANDla/GENERAL-OST.git
+[submodule "ELVEE-OST"]
+	path = ELVEE-OST
+	url = git@github.com:danANDla/ELVEES-OST.git
